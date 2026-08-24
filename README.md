@@ -1,1 +1,1 @@
-# novelbgc2.0
+# Example
